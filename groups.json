@@ -2,74 +2,62 @@
   "groups": [
     {
       "id": "group01",
-      "name": "Experimental Group 1",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_01/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_01/viewform",
       "enabled": true
     },
     {
       "id": "group02",
-      "name": "Experimental Group 2",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_02/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_02/viewform",
       "enabled": true
     },
     {
       "id": "group03",
-      "name": "Experimental Group 3",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_03/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_03/viewform",
       "enabled": true
     },
     {
       "id": "group04",
-      "name": "Experimental Group 4",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_04/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_04/viewform",
       "enabled": true
     },
     {
       "id": "group05",
-      "name": "Experimental Group 5",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_05/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_05/viewform",
       "enabled": true
     },
     {
       "id": "group06",
-      "name": "Experimental Group 6",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_06/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_06/viewform",
       "enabled": true
     },
     {
       "id": "group07",
-      "name": "Experimental Group 7",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_07/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_07/viewform",
       "enabled": true
     },
     {
       "id": "group08",
-      "name": "Experimental Group 8",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_08/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_08/viewform",
       "enabled": true
     },
     {
       "id": "group09",
-      "name": "Experimental Group 9",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_09/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_09/viewform",
       "enabled": true
     },
     {
       "id": "group10",
-      "name": "Experimental Group 10",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_10/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_10/viewform",
       "enabled": true
     },
     {
       "id": "group11",
-      "name": "Experimental Group 11",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_11/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_11/viewform",
       "enabled": true
     },
     {
       "id": "group12",
-      "name": "Experimental Group 12",
-      "url": "https://docs.google.com/forms/d/e/FORM_URL_12/viewform",
+      "url": "https://docs.google.com/forms/d/e/FORM_ID_12/viewform",
       "enabled": true
     }
   ]
